@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Reverse+Engineering;iOS+Tweaks;Game+Hacking;Low-Level+Programming"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Reverse+Engineering;Kernel+Exploitation;Low-Level+Programming;Rootkit+Development"/>
 </p>
 
 <table align="center">
@@ -33,19 +33,11 @@
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/b9ckrooms/b9ckrooms/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/b9ckrooms/b9ckrooms/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/b9ckrooms/b9ckrooms/output/github-snake.svg" />
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=b9ckrooms&theme=react-dark&bg_color=000000&hide_border=true&area=true"/>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=b9ckrooms&color=red&style=for-the-badge&label=PROFILE+VIEWS"/>
   <img src="https://img.shields.io/github/followers/b9ckrooms?style=for-the-badge&color=red&label=FOLLOWERS"/>
   <img src="https://img.shields.io/github/stars/b9ckrooms?style=for-the-badge&color=red&label=STARS"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/b9ckrooms/b9ckrooms/output/snake.svg" alt="Snake animation" />
 </p>
