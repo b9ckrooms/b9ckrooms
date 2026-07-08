@@ -11,14 +11,6 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=b9ckrooms&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&icon_color=58a6ff&title_color=ffffff&text_color=c9d1d9"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b9ckrooms&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=b9ckrooms&theme=github-dark&bg_color=0d1117&hide_border=true&area=true&color=58a6ff&line=58a6ff&point=ffffff"/>
 </p>
 
