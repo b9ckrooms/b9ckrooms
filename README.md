@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Objective--C-438EFF?style=for-the-badge&logo=apple&logoColor=white"/>
   <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Theos-000000?style=for-the-badge&logo=theos&logoColor=white"/>
   <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/>
 </p>
 
@@ -47,5 +47,5 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+  <img src="https://raw.githubusercontent.com/b9ckrooms/b9ckrooms/output/snake.svg" alt="Snake animation" />
 </p>
