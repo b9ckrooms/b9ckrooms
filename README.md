@@ -7,13 +7,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=b9ckrooms&show_icons=true&theme=dark&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b9ckrooms&layout=compact&theme=dark&hide_border=true"/>
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=b9ckrooms&color=blue&style=flat-square"/>
 </p>
